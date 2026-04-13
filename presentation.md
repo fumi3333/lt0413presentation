@@ -53,25 +53,18 @@ style: |
 </div>
 
 ---
-<!-- header: 背景：なぜ「自己理解」が必要なのか？ -->
+<!-- header: 背景 -->
 
-<div class="columns">
-<div class="column">
-<div class="column-title">溺れるような苦しみ</div>
-
-* 過去に、もがき苦しむような時期がありました
-* 「幸せになりたい」と強く願い、幸福について考えた
-* 結論：幸福の形は多様で、万人共通の正解はない
-
-</div>
-<div class="column">
-<div class="column-title">自分専用の幸福を見つける</div>
-
-* 「自分にカスタマイズされた幸福」を見つける必要がある
-* それを見つけるためには、まず**自分自身を深く理解しなければならない**
-* → AIを使って、自己理解を極限まで深める試みを始めました。
-
-</div>
+<div style="margin-top: 10px;">
+  <div class="flow-block">過去の溺れるような苦しみから「幸せになりたい」と強く願う</div>
+  <div class="flow-arrow">↓</div>
+  <div class="flow-block">幸福の形は多様で、誰にでも当てはまる「万人共通の正解」はない</div>
+  <div class="flow-arrow">↓</div>
+  <div class="flow-block">「自分専用にカスタマイズされた幸福」を見つける必要がある</div>
+  <div class="flow-arrow">↓</div>
+  <div class="flow-block">そのためには、まず【自分自身を深く理解しなければならない】</div>
+  <div class="flow-arrow">↓</div>
+  <div class="flow-block">AIを使って、自己理解を極限まで深める手法をとる</div>
 </div>
 
 ---

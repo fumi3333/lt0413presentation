@@ -98,3 +98,21 @@ li {
   padding-bottom: 10px;
   margin-bottom: 20px;
 }
+
+/* 思考プロセスのフロー（ブロック化と矢印）用 */
+.flow-block {
+  border: 2px solid #000000;
+  padding: 15px 20px;
+  margin: 5px auto;
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  width: 90%;
+  background-color: #f9f9f9;
+}
+.flow-arrow {
+  text-align: center;
+  font-size: 32px;
+  margin: 0;
+  line-height: 1;
+}
