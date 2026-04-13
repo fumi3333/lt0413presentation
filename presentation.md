@@ -43,52 +43,55 @@ style: |
 
 <div class="columns">
 <div class="column" style="flex: 2;">
-<div class="column-title">問い：自分とは何か？</div>
+<div class="column-title">皆さんに問いかけたいこと</div>
 
-* AIを使って「自分とは何か」を発見できるのではないか？
-* 自分自身という、最も身近で最も難解な対象へのアプローチ
-
-</div>
-</div>
-
----
-<!-- header: 背景と仮説 -->
-
-<div class="columns">
-<div class="column">
-<div class="column-title">人生の迷い</div>
-
-* 過去に人生で苦しんでいた
-* 根本にあった疑問：「自分とは何なのか？」
-
-</div>
-<div class="column">
-<div class="column-title">解決への仮説</div>
-
-* なにが欲しいか、どこに進むべきか
-* 自分自身がクリアになれば
-* → 結果として「幸福」に近づけるはず
+* **「自分自身を本当に理解していますか？」**
+* 「自分」とは何か？ 最も身近で最も難解な対象です。
+* 果たして、AIを使えばこの「自分」の解像度を上げることは可能なのか？
 
 </div>
 </div>
 
 ---
-<!-- header: 気づきと実践 -->
+<!-- header: 背景：なぜ「自己理解」が必要なのか？ -->
 
 <div class="columns">
 <div class="column">
-<div class="column-title">過去のヒント</div>
+<div class="column-title">溺れるような苦しみ</div>
 
-* 昔の自分を振り返ると…
-* 気づけば頻繁に『遺書』を書いていた
+* 過去に、もがき苦しむような時期がありました
+* 「幸せになりたい」と強く願い、幸福について考えた
+* 結論：幸福の形は多様で、万人共通の正解はない
 
 </div>
 <div class="column">
-<div class="column-title">ポップな「遺書」の再定義</div>
+<div class="column-title">自分専用の幸福を見つける</div>
 
-* （決して暗い話ではありません！）
-* 毎日をリセットし、今の思いを書き出す
-* 人生で欲しいものは何か？をテキストで記録
+* 「自分にカスタマイズされた幸福」を見つける必要がある
+* それを見つけるためには、まず**自分自身を深く理解しなければならない**
+* → AIを使って、自己理解を極限まで深める試みを始めました。
+
+</div>
+</div>
+
+---
+<!-- header: 開発したシステム：AI自己理解エンジン -->
+
+<div class="columns">
+<div class="column">
+<div class="column-title">入力：日々の「遺書」</div>
+
+* 毎日、自分の感情や欲しいものをテキスト化
+* （※ポップな意味での「遺書」＝毎日のスナップショットです）
+* メモツール「Obsidian」で書き、GitHubにログを蓄積
+
+</div>
+<div class="column">
+<div class="column-title">処理：Gemini API x RAG</div>
+
+* 溜まった思考データをRAG（検索拡張生成）の仕組みで構築
+* 「Google Gemini API」を頭脳として活用
+* 何もバイアスのない客観的な目で、自分を分析させる
 
 </div>
 </div>
