@@ -139,4 +139,7 @@ style: |
 <!-- _class: title -->
 # ご清聴ありがとうございました
 
-（Q&A / 連絡先など）
+<div style="text-align: center; margin-top: 40px;">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=https://x.com/musashinoinvest" width="200" alt="QR Code">
+  <p style="font-size: 24px; margin-top: 10px;">投資テック同好会 X(Twitter)<br>@musashinoinvest</p>
+</div>
