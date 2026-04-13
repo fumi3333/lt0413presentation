@@ -31,8 +31,7 @@ style: |
 <div class="column-title">申請中のプロジェクト</div>
 
 * トビタテ！留学JAPAN（申請中）
-* 目的：多様な幸福の形を実感するため
-* 様々な価値観に触れる狙い
+  <p style="margin-left: 45px; margin-top: 5px; font-size: 22px; line-height: 1.4;">目的：多様な幸福の形を実感するため<br>様々な価値観に触れる狙い</p>
 
 </div>
 </div>
