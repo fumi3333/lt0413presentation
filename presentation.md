@@ -66,7 +66,7 @@ style: |
 </div>
 
 ---
-<!-- header: 開発したシステム：AI自己理解エンジン -->
+<!-- header: システム構築：AI自己理解エンジン -->
 
 <div class="columns">
 <div class="column">
