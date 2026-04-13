@@ -15,8 +15,7 @@ style: |
 投資テック同好会
 
 ---
-<!-- header: プロフィール・現在の取り組み 　　　　　　　　　　　_M_ -->
-<!-- footer: © MATSUO LAB, THE UNIVERSITY OF TOKYO (仮) -->
+<!-- header: プロフィール・現在の取り組み -->
 
 <div class="columns">
 <div class="column">
@@ -39,7 +38,7 @@ style: |
 </div>
 
 ---
-<!-- header: 本日のテーマ 　　　　　　　　　　　　　　　　　　　　_M_ -->
+<!-- header: 本日のテーマ -->
 
 <div class="columns">
 <div class="column" style="flex: 2;">
@@ -52,7 +51,7 @@ style: |
 </div>
 
 ---
-<!-- header: 背景と仮説 　　　　　　　　　　　　　　　　　　　　　_M_ -->
+<!-- header: 背景と仮説 -->
 
 <div class="columns">
 <div class="column">
@@ -73,7 +72,7 @@ style: |
 </div>
 
 ---
-<!-- header: 気づきと実践 　　　　　　　　　　　　　　　　　　　　_M_ -->
+<!-- header: 気づきと実践 -->
 
 <div class="columns">
 <div class="column">
@@ -94,7 +93,7 @@ style: |
 </div>
 
 ---
-<!-- header: AIによる自己分析 　　　　　　　　　　　　　　　　　　_M_ -->
+<!-- header: AIによる自己分析 -->
 
 <div class="columns">
 <div class="column">
@@ -115,7 +114,7 @@ style: |
 </div>
 
 ---
-<!-- header: 今後の展望とまとめ 　　　　　　　　　　　　　　　　　_M_ -->
+<!-- header: 今後の展望とまとめ -->
 
 <div class="columns">
 <div class="column">
