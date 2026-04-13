@@ -41,7 +41,6 @@ style: |
 
 <div class="columns">
 <div class="column" style="flex: 2;">
-<div class="column-title">皆さんに問いかけたいこと</div>
 
 * **「自分自身を本当に理解していますか？」**
 * 「自分」とは何か？ 最も身近で最も難解な対象です。
