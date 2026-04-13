@@ -1,0 +1,96 @@
+/* @theme kessan */
+
+@import 'default';
+
+/* 全体の基本設定 */
+section {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Arial", "Meiryo", sans-serif;
+  padding: 50px 70px;
+  font-size: 26px;
+}
+
+/* ヘッダー（タイトル部分）のデザイン */
+header {
+  position: absolute;
+  top: 40px;
+  left: 70px;
+  right: 70px;
+  font-size: 36px;
+  font-weight: bold;
+  border-bottom: 3px solid #000000; /* 太い水平線 */
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+/* フッター（コピーライトとページ番号）のデザイン */
+footer {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+  color: #666666;
+}
+
+/* 左下のページ番号位置調整用 (Marpのデフォルト動作をオーバーライド) */
+section::after {
+  color: #000000;
+  font-size: 16px;
+  font-weight: bold;
+  bottom: 20px;
+  right: 70px;
+}
+
+/* 見出しの設定 */
+h1 {
+  font-size: 48px;
+  margin-bottom: 40px;
+  text-align: center;
+  border: none;
+}
+
+h2 {
+  font-size: 32px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #000000; /* 細い水平線 */
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+/* リスト（箇条書き）の設定 */
+ul {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+  list-style-type: '✓  '; /* チェックマークのリストスタイル */
+}
+
+/* 2カラムレイアウト用のユーティリティクラス */
+.columns {
+  display: flex;
+  gap: 40px;
+  margin-top: 60px; /* ヘッダーの線を避けるためのマージン */
+}
+
+.column {
+  flex: 1;
+}
+
+/* 見出しを含んだカラムの上部ボーダー */
+.column-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  border-bottom: 1px solid #000000;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
