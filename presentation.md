@@ -139,7 +139,7 @@ style: |
 <!-- _class: title -->
 # ご清聴ありがとうございました
 
-<div style="text-align: center; margin-top: 40px;">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=https://x.com/musashinoinvest" width="200" alt="QR Code">
-  <p style="font-size: 24px; margin-top: 10px;">投資テック同好会 X(Twitter)<br>@musashinoinvest</p>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; margin-top: 20px;">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=https://x.com/musashinoinvest" width="300" alt="QR Code" style="margin-bottom: 20px;">
+  <p style="font-size: 28px; text-align: center; margin: 0;">投資テック同好会 X(Twitter)<br>@musashinoinvest</p>
 </div>
