@@ -15,23 +15,38 @@ style: |
 投資テック同好会
 
 ---
-<!-- header: 自己紹介と本日の趣旨 　　　　　　　　　　　　　　　_M_ -->
+<!-- header: プロフィール・現在の取り組み 　　　　　　　　　　　_M_ -->
 <!-- footer: © MATSUO LAB, THE UNIVERSITY OF TOKYO (仮) -->
 
 <div class="columns">
 <div class="column">
-<div class="column-title">Profile</div>
+<div class="column-title">今取り組んでいること</div>
 
-* こんにちは、松田晴史です
-* 「投資テック同好会」を運営中
-* （なので今日は決算書風のフォーマットです）
+* 学内フリマアプリの開発
+* 投資テック同好会の大学公認化
+* Claudeのアンバサダー
+* （今日はサークルにちなんで決算書風フォーマットです）
 
 </div>
 <div class="column">
+<div class="column-title">申請中のプロジェクト</div>
+
+* トビタテ！留学JAPAN（申請中）
+* 目的：多様な幸福の形を実感するため
+* 様々な価値観に触れる狙い
+
+</div>
+</div>
+
+---
+<!-- header: 本日のテーマ 　　　　　　　　　　　　　　　　　　　　_M_ -->
+
+<div class="columns">
+<div class="column" style="flex: 2;">
 <div class="column-title">問い：自分とは何か？</div>
 
 * AIを使って「自分とは何か」を発見できるのではないか？
-* 最も身近で、最も難解な対象へのアプローチ
+* 自分自身という、最も身近で最も難解な対象へのアプローチ
 
 </div>
 </div>
