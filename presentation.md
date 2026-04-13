@@ -24,6 +24,8 @@ style: |
 * 学内フリマアプリの開発
 * 投資テック同好会の大学公認化
 * Claudeのアンバサダー
+* ニンニク育成中
+  <img src="garlic.jpg" height="200" alt="ニンニク育成中" style="display: block; margin-top: 10px;">
 
 </div>
 <div class="column">
